@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hello everyone (っ ͡❛ ͜ʖ ͡❛)っ🎔
 
-<!--
-**CesarBuendiaG/CesarBuendiaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Software Engineer.💻
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Software Engineer.
 
 - 📫 How to reach me:
 - Instagram: https://www.instagram.com/cesarin.exe/
+- Linkedin: www.linkedin.com/in/cesar-buendia-galvan-289b8a196
