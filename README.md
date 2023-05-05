@@ -1,8 +1,8 @@
 ### Hello everyone, I'm Cesar Buendia
 
- A passionate frontend developer student from Mexico 💻
+ A passionate Data student from Mexico 💻
 
-🌱 I’m currently learning all frontend technologies
+🌱 I’m currently learning all data Engineering/Science technologies
 
  📫 How to reach me:
 - Instagram: [BCesar_dev](https://www.instagram.com/bcesar_dev/)
