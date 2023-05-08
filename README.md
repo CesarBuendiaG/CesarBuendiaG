@@ -2,7 +2,7 @@
 
  A passionate Data student from Mexico 💻
 
-🌱 I’m currently learning all data Engineering/Science technologies
+🌱 I’m currently learning all data Engineering/Science technologies (starting with Python and SQL)
 
  📫 How to reach me:
 - Instagram: [BCesar_dev](https://www.instagram.com/bcesar_dev/)
