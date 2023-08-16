@@ -6,4 +6,5 @@
 
  📫 How to reach me:
 - Instagram: [BCesar_dev](https://www.instagram.com/bcesar_dev/)
+- Kaggle: [csarbuenda](https://www.kaggle.com/csarbuenda)
 - Linkedin:  [Cesar Buendia G](https://www.linkedin.com/in/morn-dev)
